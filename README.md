@@ -26,6 +26,12 @@ A variation based on Base16 Eighties Dark color scheme.
 
 *The font used in the screenshots is [__Source Code Pro__](https://github.com/adobe-fonts/source-code-pro).*
 
+#### Oceanic Next
+
+Default flavor based on Base16 Ocean Dark color scheme.
+
+![image](Screenshots/oceanic-next-preview.png)
+
 ***
 
 ### How to Install
@@ -80,6 +86,15 @@ You can choose whichever flavor you like, but don't forget to change *both* colo
 {
   "theme": "Spacegray Eighties.sublime-theme",
   "color_scheme": "Packages/Theme - Spacegray/base16-eighties.dark.tmTheme"
+}
+```
+
+#### Settings for Oceanic Next
+
+```json
+{
+  "theme": "Spacegray Oceanic Next.sublime-theme",
+  "color_scheme": "Packages/Theme - Spacegray/oceanic-next-theme/Oceanic Next.tmTheme"
 }
 ```
 
